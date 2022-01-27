@@ -8,6 +8,8 @@ export const Container = styled.View`
   background-color: #011627;
 `;
 
+export const StatusBar = styled.StatusBar``;
+
 export const Title = styled.Text`
   font-size: ${RFValue(30)}px;
   font-weight: bold;
